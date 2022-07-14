@@ -1,0 +1,14 @@
+div{
+    width:400px;
+    height:350px;
+    border-style:groove;
+    border-width:5px;
+    border-radius:25px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:50px;
+}
+body{
+    background-color:grey;
+}
